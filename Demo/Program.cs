@@ -31,6 +31,10 @@
             #region Question 7: In C#, can an interface have explicit access modifiers for its members? 
             //  a) Yes, for all members
             #endregion
+            #region Question 8: What is the purpose of an explicit interface implementation in C#?  
+            //  b) To provide a clear separation between interface and class members 
+            #endregion
+
 
             #endregion
 
