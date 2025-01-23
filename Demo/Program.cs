@@ -10,6 +10,10 @@
             #region Question 1:  What is the primary purpose of an interface in C#? 
             // a) To provide a way to implement multiple inheritance
             #endregion
+            #region Question 2:  Which of the following is NOT a valid access modifier for interface members in C#?  
+            //protected
+            #endregion
+
 
 
             #endregion
