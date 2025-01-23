@@ -38,7 +38,9 @@
             //  b) No, interfaces cannot have constructor
             #endregion
 
-
+            #region Question 10: In C#, can an interface have explicit access modifiers for its members? 
+            //  c) By separating interface names with commas 
+            #endregion
             #endregion
 
 
