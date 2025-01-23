@@ -17,7 +17,10 @@
             // c) Only if they are static
             #endregion
 
-   
+            #region Question 4: In C#, can an interface inherit from another interface? 
+            //  b) Yes, interfaces can inherit from multiple interfaces
+            #endregion
+
 
 
             #endregion
