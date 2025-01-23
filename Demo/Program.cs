@@ -2,6 +2,12 @@
 {
     internal class Program
     {
+        static void displayInfo(IShape shape) {
+
+            Console.WriteLine(shape.displayInfo());
+        
+        
+        }
         static void Main(string[] args)
         {
             #region Part 01
@@ -43,6 +49,15 @@
             #endregion
             #endregion
 
+            #region Part 02 
+            #region Question 01: 
+            //Circle circle = new Circle(20);
+            //Rectangle rectangle = new Rectangle(30);
+            //displayInfo(circle);
+            //displayInfo(rectangle);
+            #endregion
+
+            #endregion
 
 
 
