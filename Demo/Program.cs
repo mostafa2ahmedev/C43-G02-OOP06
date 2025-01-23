@@ -28,6 +28,9 @@
             #region Question 6: Can an interface contain static methods in C#?  
             //  a) Yes 
             #endregion
+            #region Question 7: In C#, can an interface have explicit access modifiers for its members? 
+            //  a) Yes, for all members
+            #endregion
 
             #endregion
 
