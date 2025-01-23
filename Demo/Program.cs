@@ -13,7 +13,11 @@
             #region Question 2:  Which of the following is NOT a valid access modifier for interface members in C#?  
             //protected
             #endregion
+            #region Question 3:  Can an interface contain fields in C#? 
+            // c) Only if they are static
+            #endregion
 
+   
 
 
             #endregion
