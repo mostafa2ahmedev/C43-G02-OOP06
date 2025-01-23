@@ -8,6 +8,14 @@
         
         
         }
+        static void displayNotificationMessage(INotificationService service)
+        {
+
+            Console.WriteLine(service.SendNotification("Mostafa","Don't forget to finish your homework"));
+
+
+        }
+
         static void Main(string[] args)
         {
             #region Part 01
@@ -61,6 +69,16 @@
 
             //Console.WriteLine(authService.AuthenticateUser("Ahmed", "123")); //True
             //Console.WriteLine(authService.AuthorizeUser("Dev")); // False
+            #endregion
+            #region Question 03:
+            //EmailNotificationService service = new EmailNotificationService();
+            //PushNotificationService pushNotificationService = new PushNotificationService();    
+            //SmsNotificationService smsNotificationService = new SmsNotificationService();
+
+            //displayNotificationMessage(service);
+            //displayNotificationMessage(pushNotificationService);
+            //displayNotificationMessage(smsNotificationService);
+
             #endregion
             #endregion
 
