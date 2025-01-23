@@ -56,7 +56,12 @@
             //displayInfo(circle);
             //displayInfo(rectangle);
             #endregion
+            #region Question 02: 
+            //IAuthenticationService authService = new BasicAuthenticationService(){ UserName="Ahmed",Password="123",Role="Admin"};
 
+            //Console.WriteLine(authService.AuthenticateUser("Ahmed", "123")); //True
+            //Console.WriteLine(authService.AuthorizeUser("Dev")); // False
+            #endregion
             #endregion
 
 
