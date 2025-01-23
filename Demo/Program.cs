@@ -25,6 +25,10 @@
             //  d) implements   >  (:)
             #endregion
 
+            #region Question 6: Can an interface contain static methods in C#?  
+            //  a) Yes 
+            #endregion
+
             #endregion
 
 
